@@ -1,0 +1,22 @@
+
+site_name: Pilotage SYS
+site_description: Documentation et outils
+copyright: '© 2026 PilotageSYS - Tous droits réservés'
+
+theme:
+  name: material
+  language: fr
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+  - awesome-pages
