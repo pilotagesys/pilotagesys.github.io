@@ -13,11 +13,12 @@ Structure simplifiée
 Accueil
 ├── À propos
 │   ├── Bio 
-│   ├── Ce que je fais
-│   └── Contact
+│   ├── Expertise tehcnique
+│   ├── Gouvernance et Accompagnement
+│   ├── Manifeste
 ├── Articles
 └── Projets
-└── Enseignement (ou Professionnalisation / Accompagnement (Arcadia)
+└── Enseignement 
 
 _Cette personne sait-elle réfléchir, écrire et transmettre ?
 _Montrer que tu es capable d'apprendre, de construire, de documenter et de transmettre.
