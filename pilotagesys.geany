@@ -1,6 +1,6 @@
 [editor]
-line_wrapping=true
-line_break_column=80
+line_wrapping=false
+line_break_column=72
 auto_continue_multiline=true
 
 [file_prefs]
@@ -26,25 +26,15 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=11
-FILE_NAME_0=98;YAML;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fpilotagesys%2Fmkdocs.yml;0;4
-FILE_NAME_1=0;None;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fpilotagesys%2F.gitignore;0;4
-FILE_NAME_2=133;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fpilotagesys%2Fnotes_psys%2Fnotes_psys.md;0;4
-FILE_NAME_3=174;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fmaxcode%2Fpilotagesys%2Farcadia_business.md;0;4
-FILE_NAME_4=1752;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fpilotagesys%2Fdocs%2FÀ%20propos%2Fbiographie.md;0;4
-FILE_NAME_5=568;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fpilotagesys%2Ftodo.md;0;4
-FILE_NAME_6=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fpilotagesys%2Fdocs%2Findex.md;0;4
-FILE_NAME_7=621;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fpilotagesys%2Fidées.md;0;4
-FILE_NAME_8=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fpilotagesys%2Fbrouillon.md;0;4
-FILE_NAME_9=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fpilotagesys%2Fdocs%2FÀ%20propos%2Fexpertise_technique.md;0;4
-FILE_NAME_10=12;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fpilotagesys%2Fdocs%2FÀ%20propos%2Fmanifeste.md;0;4
-FILE_NAME_11=880;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fpierre%2Fprojets%2Fpilotagesys%2Fdocs%2FÀ%20propos%2Fexpertise_gouvernance.md;0;4
+current_page=1
+FILE_NAME_0=0;None;0;EUTF-8;1;1;0;%2Ftmp%2Fgis_OSW5X3;0;4
+FILE_NAME_1=0;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Fpierre%2Fprojets%2Fpilotagesys%2Fidées.md;0;4
 
 [VTE]
 last_dir=/home/pierre
 
 [prjorg]
-expanded_paths=/home/pierre/projets/pilotagesys/docs/À propos;
+expanded_paths=/home/pierre/projets/pilotagesys;
 source_patterns=*.c;*.C;*.cpp;*.cxx;*.c++;*.cc;*.m;
 header_patterns=*.h;*.H;*.hpp;*.hxx;*.h++;*.hh;
 ignored_dirs_patterns=.*;CVS;
